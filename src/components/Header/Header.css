@@ -1,0 +1,21 @@
+.logo{
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50px;
+    mix-blend-mode: color-burn;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header-menu{
+    list-style:none;
+    display: flex;
+    gap: 2rem;
+    color: white;
+}
+.header-menu>li:hover{
+    cursor: pointer;
+    color: gold;
+    /* font-size: 3rem; */
+}
