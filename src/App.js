@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Hero from './components/hero/hero';
 import Programs from './components/Programs/Programs';
