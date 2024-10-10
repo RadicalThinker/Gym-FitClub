@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 import './App.css';
 import Hero from './components/hero/hero';
 import Programs from './components/Programs/Programs';
